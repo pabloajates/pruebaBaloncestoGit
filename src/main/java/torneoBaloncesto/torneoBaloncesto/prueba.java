@@ -7,6 +7,7 @@ public class prueba {
 
 		System.out.println("Carlos feo");
 		String nombre= "brahim ";
+		System.out.println(nombre);
 	}
 
 }
